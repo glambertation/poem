@@ -6,6 +6,9 @@ sol 1首
 
 luna 4首
 
-sf 91首
+sf 160首
 
-total 100首
+# novel
+
+novel.1 都市爱情
+
