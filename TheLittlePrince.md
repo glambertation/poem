@@ -167,3 +167,43 @@ but the little prince made no reply.
 
 
 ```
+
+## chapter 7
+
+```
+On the fifth day – again, as always, it was thanks to the sheep—the secret of the little prince’s life was revealed to me. Abruptly, without anything to lead up to it, and as if the question had been born of long and silent meditation on his problem, he demanded:
+“a sheep – if it easts little bushes, does it eat flowers, too?”
+“a sheep,” I answered, “eats anything it finds in its reach.”
+“even flowers that have thorns?”
+“yes, even flowers that have thorns.”
+“then the thorns – what use are they?”
+the little prince never let go a question, once he had asked it. As for me, I was upset over that bolt. And I answered with the first thing that came into my head:
+“the thorns are no use at all. Flowers have thorns just for spite!”
+“oh!”
+there was a moment of complete silence. Then the little prince flashed back at me, with a kind of resentfulness:
+“I don’t believe you! Flowers are weak creature. They are naïve. They reassure themselves as best they can. They believe that their thorns are terrible weapons…”
+I did not answer. At that instant I was saying to myself: “if this bolt still won’t turn, I am going to knock it out with the hammer. “again the little prince disturb my thoughts.
+“and you actually believe that the flowers--”
+“oh, no！”I cried. “no, no, no!  I don’t believe anything.  I answered you with the first thing that came to my head. Don’t you see – I am busy with matter of consequence!”
+he stared at me, thunderstruck.
+“matter of consequence!”
+he looked at me there, with my hammer in my hand, my fingers black with engine-grease, bending down over an object which seemed to him extremely ugly…
+“you talk just like the grown-ups!”
+that made me a little shamed. But he went on, relentlessly：
+“you ix everything up together… you confuse everything…”
+he was really very anger. He tossed his golden curls in the breeze.
+“I know a planet where there is a certain red-faced gentleman. He has never smelled a flower. He has never looked at a star. He has never loved any one. He has never done anything in his life but add up figures. And all day he says over and over , just like you :”I am busy with matters of consequence! “and that makes him swell up with pride. But he is not a man – he is a mushroom!”
+“a what？”
+“a mushroom!”
+the little prince was now white with rage.
+“the flowers have been growing thorns for millions of years. For millions of years the sheep have been eating them just the same. And is it not a matter of consequence to try to understand why the flowers go to so much trouble to grow thorns which are never of any use of them? Is the warfare between the sheep and the flowers not important? Is this not of more consequence than a fat red-faced gentleman’s sums? And if I know—I, myself—one flower which is unique in the world, which grows nowhere but on my planet, but which one little sheep can destroy in a single bite some morning, without even noticing what he is doing – oh! You think that is not important!”
+his face turned from white to red ad he continued:
+“if some one loves a flower, of which just one single blossom grows in all the millions and millions of stars, it is enough to make him happy just to look at the stars. He can say to himself, “somewhere, my flower is there…” but if the sheep eats the flower, in one moment all his stars will be darkened… and you think that is not important!”
+he could not say anything more. His words were choked by sobbing.
+The night had fallen. I had let my tools drop from my hands. Of what moment now was hammer, my bolt, or thirst, or death? On one star, one planet, my planet, the earth, there was a little prince to be comforted. I took him in my arms, and rocked him. I said to him”
+“the flower that you love is not in danger. I will draw you a muzzle for your sheep. I will draw you a railing to put around you flower. I will--”
+I did not know what to say to him. I felt awkward and blundering. I did not know how I could reach him, where I  could overtake him and go on hand in hand with him once more.
+It is such a secret place, the land of tears.
+
+
+```
