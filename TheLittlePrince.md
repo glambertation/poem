@@ -243,7 +243,7 @@ An he continued his confidences:
 
 ```
 
-## catper 9
+## chatper 9
 
 ```
 the little prince leaves his planet.
@@ -264,5 +264,70 @@ he was surprised by this absence of reproaches. He stood there all bewildered, t
 And, naively, she showed her four thorns. Then she added:
 “don’t linger like this. You have decided to go away. Now go!”
 for she did not want him to see her crying. She was such a proud flower…
+
+```
+
+## chapter 10
+
+```
+the little prince visits the king.
+He found himself in the neighborhood of asteroid 325, 326, 327, 328, 329, and 330. He began, therefore, by visiting them, in order to add to his knowledge.
+The first of them was inhabited by a king. Clad in royal purple and ermine, he was seated upon a throne which was at the same time both simple and majestic.
+“ah! Here is a subject,” exclaimed the king, when he saw the little prince coming.
+And the little prince asked himself:
+“how could he recognize me when he had never seen me before? “
+He did not know how the world is simplified for kings. To them, all men are subjucts.
+“approach, so that I may see you better.” Said the king, who felt consumingly proud of being at last a king over somebody.
+The little prince looked everywhere to find a place to sit down; but the entire planet was crammed and obstructed by the king’s magnificent ermine robe. So he remained standing upright, and , since he was tired, he yawned.
+“it is contrary to etiquette to yawn in the presence of a king, ” the monarch said to him. “I forbid you to do so.”
+“I can’t help it. I can’t stop myself, ”replied the little prince, thoroughly embarrassed. “I have come on a long journey, and I have had no sleep…”
+“ah, then,” the king said. “I order you to yawn. It is years since I have seen anyone yawning. Yawns, to me, are objects of curiosity. Come, now！yawn again！ It is an order.”
+“that frightens me… I cannot, any more…”murmured the little prince, now completely abashed.
+“hum! hum！” replied the king. “Then I – I order you sometimes to yawn and sometimes to--”
+he sputtered a little, and seemed vexed.
+For what the king fundamentally insisted upon was that his authority should be respected. he tolerated no disobedience. He was an absolute monarch. But, because he was a very good man, he made his orders reasonable.
+“if I ordered a general,” he would say, by way of example, “if I ordered a general to change himself into a sea bird, and if the general did not obey me , that would not be the fault of the general. It would be my fault.”
+“may I sit down? “came now a timid inquiry from the little prince.
+“I order you to do so,” the king answered him, and majestically gathered in a fold of his ermine mantle.
+But the little prince was wondering… the planet was tiny. Over what could this king really rule?
+“sire,” he said to him, “I beg that you will excuse my asking you a question--”
+“I order you to ask me a question,” the king hastened to assure him.
+“sire—over what do you rule？”
+“over everything,” said the king, with magnificent simplicity.
+“over everything?”
+the king made a gesture, which took in his planet, the other planets, and all the stars.
+“over all that？” asked the little prince.
+“over all that,” the king answered.
+For his rule was not only absolute: it was also universal.
+“and the stars obey you?”
+“certainly they do,” the king said. “they obey instantly. I do not permit insubordination.”
+Such power was a thing for the little prince to marvel at. If he had been master of such complete authority, he would have been able to watch the sunset, not forty-four times in one day, but seventy-two, or even a hundred, or even two hundred times, without ever having to move his chair. And because he felt a bit sad as he remembered his little planet which he had forsaken, he plucked up his courage to ask the king a favor:
+“I should like to see a sunset… do me that kindness… order the sun to set…”
+“if I ordered a general to fly from one flower to another like a butterfly, or to write a tragic drama, or to change himself into a sea bird, and if the general did not carry out the order that he had received, which one of us would be in the wrong?” the king demanded. “the general, or myself?”
+“you,” said the little prince firmly.
+“exactly. One much require from each one the duty which each one can perform, ”the king went on. “accepted authority rests first of all on reason. If you ordered your people to go and throw themselves into the sea, they would rise up in revolution. I have right to require obedience because my orders are reasonable.”
+“then my sunset?” the little prince reminded him: for he never forgot a question once he had asked it.
+“you shall have your sunset. I shall command it. But, according to my science of government, I shall wait until conditions are favorable.”
+“when will that be?” inquired the little prince.
+“hum, hum,” replied the king; and before saying anything else he consulted a bulky almanac. “hum, hum, that will be about – about—that will be this evening about twenty minutes to eight. And you will see how well I am obeyed.”
+The little prince yawned. He was regretting his lost sunset. And then, too, he was beginning to be a little bored.
+“I have nothing more to do here.” He said to the king. “so I shall set out on my way again.”
+“do not go,” said the king, who was very proud of having a subject. “do not go. I will make you a minister!”
+“minister of what??”
+“minister of—of justice!”
+“but there is nobody here to judge!”
+“we do not know that,” the king said to him. “I have not yet made a complete tour of my kingdom. I am very old. There is no room here for a carriage. And it tires me to walk.”
+“oh, but I have looked already!” said the little prince, turning around to give one more glance to the side of the planet. On that side, as on this, there was nobody at all…
+“then you shall judge yourself,” the king answered. “that is the most difficult thing of all. It is much more difficult to judge oneself than to judge others. If you succeed in judging yourself rightly, then you are indeed a man of true wisdom.”
+“yes,” said the little prince, “but I can judge myself anywhere, I do not need to live on this planet.”
+“hum, hum” said the king. “I have good reason to believe that somewhere on my planet there is an old rat. I hear him at night. You can judge this old rat. From time to time you will condemn him to death. Thus his life will depend on your justice. But you will pardon him on each occasion; for he must be treated thriftily. He is the only one we have.”
+“I,” replied the little prince, “do not like to condemn anyone to death. And now I think I will go on my way.”
+“no.” said the king.
+But the little prince, having now completed his preparations for departure, had no wish to grieve the old monarch.
+“if your majesty wishes to be promptly obeyed, ” he said, “he should be able to give me a reasonable order. He should be able, for example, to order me to be gone by the end of one minute. It seems to me that conditions are favorable…”
+as the king made no answer, the little prince hesitated a moment. Then , with a sigh, he took his leave.
+“I made you my ambassador.” The king called out, hastily.
+He had a magnificent air of authority.
+“the grown-ups are very strange,” the little prince said to himself, ad he continued on his journey.
 
 ```
