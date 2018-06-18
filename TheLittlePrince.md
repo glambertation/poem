@@ -331,3 +331,48 @@ He had a magnificent air of authority.
 “the grown-ups are very strange,” the little prince said to himself, ad he continued on his journey.
 
 ```
+
+## chapter 11
+
+```
+The little prince visits the conceited man
+The second planet was inhabited by a conceited man.
+“ah! ah! I am about to receive a visit from an admirer!” he exclaimed from afar, when he first saw the little prince coming.
+For, to conceited man, all other men are admirers.
+“good morning,” said the little prince. “that is a queer hat you are wearing.”
+“it is a hat for salutes,” the conceited man replied. “it is to raise in salute when people acclaim me. Unfortunately, nobody at all ever passes this way.”
+“yes?” said the little prince, who did not understand what the conceited man was talking about.
+“clap your hands, one against the other, ”the conceited man now directed him.
+The little prince clapped his hands. The conceited man raise his hat in a modest salute.
+“this is more entertaining than the visit to the king,” the little prince said to himself. And he began again to clap his hands, one against the other. The conceited man against raise his hat in salute.
+After five minutes of this exercise the little prince grew tired of the game’s monotony.
+“and what should one do to make the hat come down?” he asked.
+But the conceited man did not hear him. Conceited people never hear anything but praise.
+“do you really admire me very much?” he demanded of the little prince.
+“what does that mean—‘admire’?”
+“to admire mean that you regard me as the handsomest, the best-dressed, the richest, and the most intelligent man on this planet.”
+“but you are the only man on your planet!”
+“do me this kindness. Admire me just the same.”
+“I admire you,” said the little prince, shrugging his shoulder slightly, “but what is there in that to interest you so much?”
+and the little prince went away.
+“the grown-ups are certainly very odd,” he said to himself, as he continue on his journey.
+
+```
+
+## chatper 12
+
+```
+The little prince visits the tippler.
+The next planet was inhabited by a tippler. This was a very short visit, but it plunged the little prince into deep dejection.
+“what are you doing there?” he said to the tippler, whom he found settled down in silence before a collection of empty bottles and also a collection of full bottles.
+“I am drinking,” replied the tippler, with a lugubrious air.
+“why are you drinking?” demanded the little prince.
+“so that I may forget,” replied the tippler.
+“forget what?” inquired the little prince, who already was sorry for him.
+“forget that I am ashamed,” the tippler confessed, hanging his head.
+“ashamed of what?” insisted the little prince, who wanted to help him.
+“ashamed of drinking!” the tippler brought his speech to an end, and shut himself up in an impregnable silence.
+And the little prince went away, puzzled.
+“the grown-ups are certainly very, very odd,” he said to himself, as he continued on his journey.
+
+```
