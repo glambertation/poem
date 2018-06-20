@@ -434,6 +434,51 @@ The little prince was still not satisfied.
 On matters of consequence, the little prince had ideas which were very different from those of the grown-ups.
 “I myself own a flower,” he continued his conversation with the businessman, “which I water every day.  I own three volcanoes, which I clean out every week (for I also clean out the one that is extinct; one never knows). It is of some use of my volcanoes, and it is of some use to my flower, that I own them. But you are of no use to the stars…”
 the businessman opened his mouth, but he found nothing to say in answer. And the little prince went away.
-“the grown-ups are certainly altogether extraordinary,” he said simply, talking to himself as he continued on his
+“the grown-ups are certainly altogether extraordinary,” he said simply, talking to himself as he continued on his journey
+
+```
+
+## chapter 14
+
+```
+The little prince visits the lamplighter.
+The fifth planet was very strange. It was the smallest at all. There was just enough room on it for a street lamp and a lamplighter. The little prince was not able to reach any explanation of the use of a street lamp and a lamplighter, somewhere in the heavens, on a planet which had no people, and not one house. But he said to himself, nevertheless:
+“it may well be that this man is absurd. But he is not so absurd as the king, the conceited man, the businessman, and the tippler. For at least his work has some meaning. When he lights his street lamp, it is as if he brought one more star to life, or one flower. When he puts out his lamp, he sends the flower, or the star, to sleep. That is a beautiful occupation. And since it is beautiful, it is truly useful.”
+When he arrived on the planet he respectfully saluted the lamplighter.
+“good morning. Why have you just put out your lamp?”
+“those are the orders,” replied the lamplighter. “good morning.”
+“what are the orders?”
+“the orders are that I put out my lamp. Good evening.”
+And he lighted his lamp again.
+“but why have you just lighted it again?”
+“those are the orders.” Replied the lamplighter.
+“I do not understand.” Said the little prince.
+“there is nothing to understand,” said the lamplighter. “orders are orders. Good morning.”
+And he put out his lamp.
+Then he mopped his forehead with a handkerchief decorated with red squares.
+“I follow a terrible profession. In the old days it was reasonable. I put the lamp out in the morning, and in the evening I lighted it again. I had the rest of the day for relaxation and the rest of the night for sleep.”
+“and the orders have been changed since that time?”
+“the orders have not been changed,” said the lamplighter. “that is the tragedy! From year to year the planet has turned more rapidly and the orders have not been changed!”
+“then what?” asked the little prince.
+“then—the planet now makes a complete turn every minute, and I no longer have a single second for repose. Once every minute I have to light my lamp and put it out!”
+“that is very funny! A day lasts only one minute, here where you live!”
+“it is not funny at all!” said the lamplighter. “while we have been talking together a month has gone by.”
+“a month?”
+“yes, a month. Thirty minutes. Thirty days. Good evening.”
+And he lighted his lamp again.
+As the little prince watched him, he felt that he loved this lamplighter who was so faithful to his orders. He remembered the sunsets which he himself had gone to seek, in other days, merely by pulling up his chair; and he wanted to help his friend.
+“you know,” he said, “I can tell you a way you can rest whenever you want to…”
+“I always want to rest,” said the lamplighter.
+For it is possible for a man to be faithful and lazy at the same time.
+The little prince went on with his explanation:
+“your planet is so small that three strides will take you all the way around it. To be always in the sunshine, you need only walk along rather slowly. When you want to rest, you will walk—and the day will last as long as you like.”
+“that doesn’t do me much good,” said the lamplighter. “the one thing I love in life is to sleep.”
+“then you’re unlucky,” said the little prince.
+“I am unlucky,” said the lamplighter. “Good morning.”
+And he put out his lamp.
+“that man,” said the little prince to himself, as he continued farther on his journey, “that man would be scorned by all the others: by the king, by the conceited man, by the tippler, by the businessman. Nevertheless he is the only one of them all who does not seem to me ridiculous. Perhaps that is because he is thinking of something else besides himself.”
+He breathed a sigh of regret, and said to himself, again:
+“that man is the only one of them all whom I could have made my friend. But his planet is indeed too small. There is no room on it for two people…”
+what the little prince did not dare confess was that he was sorry most of all to leave this planet, because it was 
 
 ```
