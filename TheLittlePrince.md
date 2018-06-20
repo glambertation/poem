@@ -376,3 +376,64 @@ And the little prince went away, puzzled.
 “the grown-ups are certainly very, very odd,” he said to himself, as he continued on his journey.
 
 ```
+
+## chapter 13
+
+```
+The little prince visits the businessman.
+The fourth planet belonged to a businessman. This man was so much occupied that he did not even raise his head at the little prince’s arrival.
+“good morning,” the little prince said to him. “your cigarette has gone out.”
+“three and two make five.  Five and seven make twelve.  Twelve and tree make fifteen.  Good morning. Fifteen and seven make twenty-two and six make twenty-eight.  I haven’t time to light it again. Twenty-six and five make thirty-one. Phew! Then that makes five-hundred-and-one-million, six-hundred-twenty-two-thousand, seven-hundred-thirty-one. (501,622,7311)”
+“five hundred million what?” asked the little prince.
+“eh? Are you still there? Five-hundred-and one million—I can’t stop… I have so much to do! I am concerned with matters of consequence.  I don’t amuse myself with balderdash. Two and five make seven…”
+“five-hundred-and one million what?” repeated the little prince, who never in his life let go of a question once he had asked it.
+The businessman raised his head.
+“during the fifty-four years that I have inhabited this planet, I have been disturbed only three times. The first time was twenty-two years ago, when some giddy goose fell from goodness knows where. He made the most frightful noise that resounded all over the place, and I make four mistakes in my addition. The second time, eleven years ago, I was disturbed by an attack of rheumatism.  I don’t get enough exercise. I have no time for loafing. The third time—well, this is it! I was saying, then, five-hundred-and-one millions--”
+“millions of what?”
+the businessman suddenly realized that there was no hope of being left in peace until he answered this question.
+“millions of those little objects,” he said, “which one sometimes sees in the sky.”
+“flies?”
+“oh, no. little glittering objects.”
+“bees?”
+“oh, no. little golden objects that set lazy men to idle dreaming. As for me, I am concerned with matter of consequence. There is no time for idle dreaming in my life.”
+“ah! You mean the stars?”
+“yes, that’s it. The stars.”
+“and what do you do with five-hundred millions of stars?”
+(501,622,731)
+“five-hundred-and-one million, six-hundred-and-twenty-two thousand, seven-hundred-thirty-one. I am concerned with matter of consequence: I am accurate.”
+“and what do you do with these stars?”
+“what do I do with them?”
+“yes.”
+“nothing. I own them.”
+“you own the stars?”
+“yes.”
+“but I have already seen a king who--”
+“kings do not own, they reign over. It is a very different matter.”
+“and what good does it do you to own the stars?”
+“it does me the good of making me rich.”
+“and what good does it do you to be rich?”
+“it makes it possible for me to buy more stars, if any are ever discovered.”
+“this man,” the little prince said to himself, “reasons a little like my poor tippler…”
+nevertheless, he still had some more questions.
+“how is it possible for one to own the stars?”
+“to whom do they belong?” the businessman retorted, peevishly.
+“I don’t know. To nobody.”
+“then they belong to me, because I was the first person to think of it.”
+“is that all that is necessary?”
+“certainly. When you find a diamond that belongs to nobody, it is yours. When you discover an island that belongs to nobody, it is yours. When you get an idea before anyone else, you take out a patent on it: it is yours. So with me: I own the stars, because nobody else before me ever thought of owning them. “
+“yes, that is true, ” said the little prince. “and what do you do with them?”
+“I administer them,” replied the businessman. “I count them and recount them. It is difficult. But I am a man who is naturally interested in matter of consequence.”
+The little prince was still not satisfied.
+“if I owned a silk scarf,” he said, “I could put it around my neck and take it away with me. If I owned a flower, I could pluck that flower and take it away with me. But you cannot pluck the stars from heaven…”
+“no. but I can put them in the bank.”
+“whatever does that mean?”
+“that means that I write the number of my stars on a little paper. And I put this paper in a drawer and lock it with a key.”
+“and that is all?”
+“that is enough,” said the businessman.
+“it is entertaining,” thought the little prince. “it is rather poetic. But it is of no great consequence.”
+On matters of consequence, the little prince had ideas which were very different from those of the grown-ups.
+“I myself own a flower,” he continued his conversation with the businessman, “which I water every day.  I own three volcanoes, which I clean out every week (for I also clean out the one that is extinct; one never knows). It is of some use of my volcanoes, and it is of some use to my flower, that I own them. But you are of no use to the stars…”
+the businessman opened his mouth, but he found nothing to say in answer. And the little prince went away.
+“the grown-ups are certainly altogether extraordinary,” he said simply, talking to himself as he continued on his
+
+```
