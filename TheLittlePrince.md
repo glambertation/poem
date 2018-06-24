@@ -601,3 +601,19 @@ The flower had once seen a caravan passing.
 “goodbye,” said the flower.
 
 ```
+
+## chapter 19
+
+```
+The little prince climbs a mountain range.
+After that, the little prince climbed a high mountain. The only mountains he had ever know were the three volcanoes, which came up to his knees. And he used the extinct volcano as a footstool. “from a mountain as high as this one,” he said to himself, “I shall be able to see the whole planet at one glance, and all the people…”
+But he saw nothing, save peaks of rock that were sharpened like needles.
+“good morning,” he said courteously.
+“good morning—good morning—good morning,” answer the echo.
+“who are you?” said the little prince.
+“who are you—who are you—who are you?” answered the echo.
+“be my friends. I am all alone,” he said.
+“I am all alone—all alone—all alone,” answered the echo.
+“what a queer planet!” he thought. “it is altogether dry, and altogether pointed, and altogether harsh and forbidding. And the people have no imagination. They repeat whatever one says to them… on my planet I had a flower; she always was the first to speak…”
+
+```
