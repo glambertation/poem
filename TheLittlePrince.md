@@ -549,3 +549,40 @@ Seen from a slight distance, that would make a splendid spectacle. The movements
 Only the man who was in charge of the single lamp at the north pole, and his colleague who was responsible for the single lamp at the south pole—only these two would live free from toil and care: they would be busy twice a year.
 
 ```
+
+## chapter 17
+
+```
+The little prince makes the acquaintance of the snake.
+When one wishes to play the wit, he sometimes wanders a little from the truth. I have not been altogether honest in what I have told you about the lamplighters. And I realize that I run the risk of giving a false idea of our planet to those who do not know it. Men occupy a very small place upon the earth. If the two billion inhabitants who people its surface were all to stand upright and somewhat crowded together, as they do for some big public assembly, they could easily be put into one public square twenty miles long and twenty miles wide. All humanity could be piled up on a small Pacific islet.
+The grown-ups, to be sure, will not believe you when you tell them that. They imagine that they fill a great deal of space. They fancy themselves as important as the baobabs. You should advise them, then, to make their own calculations. They adore figures, and that will please them. But do not waste your time on this extra task. It is unnecessary. You have, I know, confidence in me.
+When the little prince arrived on the earth, he was very much surprised not to see any people. He was beginning to be afraid he had come to the wrong planet., when a coil of gold, the color of the moonlight, flashed across the sand.
+“good evening,” said the little prince courteously.
+“good evening,” said the snake.
+“what planet is this on which I have come down?” asked the little prince.
+“this is the earth; this is Africa,” the snake answered.
+“ah! Then there are no people on the earth?”
+“this is the desert. There are no people in the desert. The earth is large,” said the snake.
+The little prince sat down on a stone, and raised his eyes toward the sky.
+“I wonder,” he said, “whether the stars are set alight in heaven so that one day each one of us may find his own again… look at my planet. It is right there above us. But how far away it is!”
+“it is beautiful,” the snake said. “what has brought you here?”
+“I have been having some trouble with a flower,” said the little prince.
+“ah!” said the snake.
+And they were both silent.
+“where are the men?” the little prince at last took up the conversation again. “it is a little lonely in the desert…”
+“it is also lonely among men,” the snake said.
+The little prince gazed at him for a long time.
+“you are a funny animal,” he said at last. “you are no thicker than a finger…”
+“but I am more powerful than the finger of a king,” said the snake.
+The little prince smiled.
+“you are not very powerful. You haven’t even any feet. You cannot even travel…”
+“I can carry you farther than any ship could take you,” said the snake.
+He twined himself around the little prince’s ankle, like a golden bracelet.
+“whomever I touch, I send back to the earth from whence he came,” the snake spoke again. “but you are innocent and true, and you come from a star…”
+the little prince made no reply.
+“you move me to pity—you are so weak on this earth made of granite,” the snake said. “I can help you, some day, if you grow too homesick for your own planet. I can--”
+“oh! I understand you very well,” said the little prince. “but why do you always speak in riddles?”
+“I solve them all” said the snake.
+And they were both silent.
+
+```
