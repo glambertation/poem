@@ -586,3 +586,18 @@ the little prince made no reply.
 And they were both silent.
 
 ```
+
+## chapter 18
+
+```
+The little prince goes looking for men and meets a flower.
+The little prince crossed the desert and met with only one flower. It was a flower with three petals, a flower of no account at all.
+“good morning,” said the little prince.
+“good morning,” said the flower.
+“where are the men?” the little prince asked, politely.
+The flower had once seen a caravan passing.
+“men?” she echoed. “I think there are six or seven of them in existence. I saw them, several years ago. But one never knows where to find them. The wind blows them away. They have no roots, and that makes their life very difficult.”
+“goodbye,” said the little prince.
+“goodbye,” said the flower.
+
+```
