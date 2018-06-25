@@ -617,3 +617,21 @@ But he saw nothing, save peaks of rock that were sharpened like needles.
 “what a queer planet!” he thought. “it is altogether dry, and altogether pointed, and altogether harsh and forbidding. And the people have no imagination. They repeat whatever one says to them… on my planet I had a flower; she always was the first to speak…”
 
 ```
+
+## chapter 20
+
+```
+the little prince discovers a garden of roses.
+But it happened that after walking for a long time through sand, the rocks, and snow, the little prince at last came upon a road. And all roads lead to the abodes of men.
+“good morning,” he said.
+He was standing before a garden, all a-bloom with roses.
+“good morning,” said the roses.
+The little prince gazed at them. They all looked like his flower.
+“who are you?” he demanded, thunderstruck.
+“we are roses,” the roses said.
+And he was overcome with sadness. His flower had told him that she was the only one of her kind in all the universe. And here were five thousand of them, all alike, in one single garden!
+“she would be very much annoyed.” He said to himself, “if she should see that… she would cough most dreadfully, and she would pretend that she was dying, to avoid being laughed at. And I should be obliged to pretend that I was nursing her back to life—for if I did not do that, to be humble myself also, she would really allow herself to die…”
+then he went on with his reflections:” I thought that I was rich, with a flower that was unique in the world; and all I had was a common rose. A common rose, and three volcanoes that come up to my knees—and one of them perhaps extinct forever… that doesn’t make me a very good prince…”
+and he lay down in the grass and cried.
+
+```
