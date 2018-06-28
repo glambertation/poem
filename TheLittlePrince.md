@@ -704,3 +704,27 @@ And he went back to meet the fox.
 “I am responsible for my rose,” the little prince repeated, so that he would be sure to remember.
 
 ```
+
+## chapter 22
+
+```
+The little prince encounters a railway switchman.
+“good morning,” said the little prince.
+“good morning,” said the railway switchman.
+“what do you do here?” the little prince asked.
+“I sort out travelers, in bundles of a thousand,” said the switchman. “I send off the train that carry them; now to the right, now to the left.”
+And a brilliantly lighted express train shook the switchman’s cabin as it rushed by with a roar like thunder.
+“they are in a great hurry,” said the little prince. “what are they looking for?”
+“not even the locomotive engineer knows that,” said the switchman.
+And a second brilliantly lighted express thundered by, in the opposite direction.
+“are they coming back already?” demanded the little prince.
+“these are not the same ones,” said the switchman. “it is an exchange.”
+“were they not satisfied where they were?” asked the little prince.
+“no one is ever satisfied where he is,” said the switchman.
+And they heard the roaring thunder of a third brilliantly lighted express.
+“are they pursuing the first travelers?” demanded the little prince.
+“they are pursuing nothing at all,” said the switchman. “they are asleep in there, or if they are not asleep they are yawning. Only the children flattening their noses against the windowpanes.”
+“only the children know what they are looking for,” said the little prince. “they waste their time over a rag doll and it becomes very important to them and if anybody takes it away from them, they cry…”
+“they are lucky,” the switchman said.
+
+```
