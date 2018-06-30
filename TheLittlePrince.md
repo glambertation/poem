@@ -728,3 +728,18 @@ And they heard the roaring thunder of a third brilliantly lighted express.
 “they are lucky,” the switchman said.
 
 ```
+
+## chapter 23
+
+```
+The little prince encounters a merchant.
+“good morning,” said the little prince.
+“good morning,” said the merchant.
+This was a merchant who sold pills that had been invented to quench thirst. You need only swallow one pill a week, and you would feel no need of anything to drink.
+“why are you selling those?” asked the little prince.
+“because they save a tremendous amount of time,” said the merchant. “computations have been made by experts. With these pills, you save fifty-three minutes in every week.”
+“and what do I do with those fifty-three minutes?”
+“anything you like…”
+“as for me,” said the little prince to himself, “if I had fifty-minutes to spend as I like, I should walk at my leisure toward a spring of fresh water.”
+
+```
