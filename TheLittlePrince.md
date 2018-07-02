@@ -743,3 +743,39 @@ This was a merchant who sold pills that had been invented to quench thirst. You 
 “as for me,” said the little prince to himself, “if I had fifty-minutes to spend as I like, I should walk at my leisure toward a spring of fresh water.”
 
 ```
+
+## chapter 24
+
+```
+The narrator and the little prince, thirsty, hunt for a well in the desert.
+It was now the eighth day since I had had my accident in the desert, and I had listened to the story of the merchant as I was drinking the last drop of my water supply.
+“ah,” I said to the little prince, “these memories of yours are very charming; but I have not yet succeeded in repairing my plane; I have nothing more to drink; and I, too, should be very happy if I could walk at my leisure toward a spring of fresh water!”
+“my friend the fox--” the little prince said to me.
+“my dear little man, this is no longer a matter that has anything to do with the fox!”
+“why not?”
+“because I am about to die of thirst…”
+he did not follow my reasoning, and he answered me:
+“it is a good thing to have had a friend, even if one is about to die. I, for instance, am very glad to have had a fox as a friend…”
+“he has no way of guessing the danger,” I said to myself. “he has never been either hungry or thirsty. A little sunshine is all the needs…”
+but he looked at me steadily, and replied to my thought:
+“I am thirsty, too. Let us look for a well…”
+I made a gesture of weariness. It is absurd to look for a well, at random, in the immensity of the desert. But nevertheless we started walking.
+When we had trudged along for several hours, in silence, the darkness fell, and the stars began to come out. Thirst had made me a little feverish, and I looked at them as if I were in a dream. The little prince’s last words came reeling back into my memory:
+“then you are thirst, too?” I demanded.
+But he did not reply to my question. He merely said to me:
+“water may also be good for the heart…”
+I did not understand this answer, but I said nothing. I knew very well that is was impossible to cross-examine him.
+He was tired. He sat down. I sat down beside him. And, after a little silence, he spoke again:
+“the stars are beautiful, because of a flower that cannot be seen.”
+I replied, “yes, that is so.” And, without saying anything more, I looked across the ridges of sand that were stretched out before us in the moonlight.
+“the desert is beautiful,” the little prince added.
+And that was true. I have always loved the desert. One sits down on a desert sand dune, sees nothing, hears nothing. Yet through the silence something throbs, and gleams…
+“what makes the desert beautiful,” said the little prince, “is that somewhere it hides a well…”
+I was astonished by a sudden understanding of that mysterious radiation of the sands. When I was a little boy I lived in an old house, and legend told us that a treasure was buried there. To be sure, no one had ever known how to find it; perhaps no one had ever even looked for it. But it cast an enchantment over that house. My house was hiding a secret in the depths of its heart…
+“yes,” I said to the little prince. “the house, the stars, the desert—what gives them their beauty is something that is invisible.”
+“I am glad,” he said, “that you agree with my fox.”
+As the little prince dropped off to sleep, I took him in my arms and set out walking once more. I felt deeply moved, and stirred. It seemed to me that I was carrying a very fragile treasure. It seemed to me even, that there was nothing more fragile on all earth. In the moonlight I looked at his pale forehead, his closed eyes, his locks of hair that trembled in the wind, and I said to myself: “what I see here is nothing but a shell. What is most important is invisible…”
+As his lips opened slightly with the suspicious of a half-smile, I said to myself, again:” what moves me so deeply, about this little prince who is sleeping here, is his loyalty to a flower—the image of a rose that shines through his whole being like the flame of a lamp, even when he is asleep…” and I felt him to be more fragile still. I felt the need of protecting him, as if he himself were a flame that might be extinguished by a little puff of wind…
+And, as I walked on so, I found the well, at daybreak.
+
+```
