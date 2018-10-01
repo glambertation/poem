@@ -16,6 +16,8 @@ novel_2_malisu 玛丽苏言情大戏
 
 novel_3_infinite-love 无限的爱
 
+novel_4_moonlight-bear 月光和小熊
+
 # reading
 
 TheLittlePrince 小王子 2018.6-7 - 原文
