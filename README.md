@@ -6,7 +6,7 @@ sol 1首
 
 luna 4首
 
-sf 320首
+sf 331首
 
 # novel
 
